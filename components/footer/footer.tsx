@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { FaFacebookF, FaLinkedinIn, FaXTwitter } from "react-icons/fa6";
 import { GrInstagram } from "react-icons/gr";
 export const Footer = () => {
@@ -6,14 +7,14 @@ export const Footer = () => {
       <div className="px-4  pt-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8">
         <div className="grid gap-16 row-gap-10 mb-8 lg:grid-cols-6">
           <div className="md:max-w-md lg:col-span-2">
-            <a
+            <Link
               href="/"
               aria-label="Go home"
               title="Company"
               className="inline-flex items-center"
             >
               Logo
-            </a>
+            </Link>
             <div className="mt-4 lg:max-w-sm">
               <p className="text-sm text-gray-800">
                 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -32,36 +33,36 @@ export const Footer = () => {
               </p>
               <ul className="mt-2 space-y-2">
                 <li>
-                  <a
+                  <Link
                     href="/"
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     News
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a
+                  <Link
                     href="/"
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     World
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a
+                  <Link
                     href="/"
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     Games
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a
+                  <Link
                     href="/"
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     References
-                  </a>
+                  </Link>
                 </li>
               </ul>
             </div>
@@ -71,44 +72,44 @@ export const Footer = () => {
               </p>
               <ul className="mt-2 space-y-2">
                 <li>
-                  <a
+                  <Link
                     href="/"
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     Web
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a
+                  <Link
                     href="/"
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     eCommerce
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a
+                  <Link
                     href="/"
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     Business
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a
+                  <Link
                     href="/"
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     Entertainment
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a
+                  <Link
                     href="/"
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     Portfolio
-                  </a>
+                  </Link>
                 </li>
               </ul>
             </div>
@@ -118,44 +119,44 @@ export const Footer = () => {
               </p>
               <ul className="mt-2 space-y-2">
                 <li>
-                  <a
+                  <Link
                     href="/"
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     Media
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a
+                  <Link
                     href="/"
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     Brochure
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a
+                  <Link
                     href="/"
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     Nonprofit
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a
+                  <Link
                     href="/"
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     Educational
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a
+                  <Link
                     href="/"
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     Projects
-                  </a>
+                  </Link>
                 </li>
               </ul>
             </div>
@@ -165,36 +166,36 @@ export const Footer = () => {
               </p>
               <ul className="mt-2 space-y-2">
                 <li>
-                  <a
+                  <Link
                     href="/"
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     Infopreneur
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a
+                  <Link
                     href="/"
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     Personal
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a
+                  <Link
                     href="/"
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     Wiki
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a
+                  <Link
                     href="/"
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     Forum
-                  </a>
+                  </Link>
                 </li>
               </ul>
             </div>
@@ -205,30 +206,30 @@ export const Footer = () => {
             © Copyright 2020 Lorem Inc. All rights reserved.
           </p>
           <div className="flex items-center mt-4 space-x-4 sm:mt-0">
-            <a
+            <Link
               href="/facebook.com"
               className="text-gray-500 transition-colors duration-300 hover:text-deep-purple-accent-400"
             >
               <FaFacebookF />
-            </a>
-            <a
+            </Link>
+            <Link
               href="/linkedin.com"
               className="text-gray-500 transition-colors duration-300 hover:text-deep-purple-accent-400"
             >
               <FaLinkedinIn />
-            </a>
-            <a
+            </Link>
+            <Link
               href="/"
               className="text-gray-500 transition-colors duration-300 hover:text-deep-purple-accent-400"
             >
               <FaXTwitter />
-            </a>
-            <a
+            </Link>
+            <Link
               href="/"
               className="text-gray-500 transition-colors duration-300 hover:text-deep-purple-accent-400"
             >
               <GrInstagram />
-            </a>
+            </Link>
           </div>
         </div>
       </div>
