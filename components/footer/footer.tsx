@@ -8,7 +8,7 @@ export const Footer = () => {
         <div className="grid gap-16 row-gap-10 mb-8 lg:grid-cols-6">
           <div className="md:max-w-md lg:col-span-2">
             <Link
-              href="/"
+              href={"/"}
               aria-label="Go home"
               title="Company"
               className="inline-flex items-center"
@@ -34,7 +34,7 @@ export const Footer = () => {
               <ul className="mt-2 space-y-2">
                 <li>
                   <Link
-                    href="/"
+                    href={"/"}
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     News
@@ -42,7 +42,7 @@ export const Footer = () => {
                 </li>
                 <li>
                   <Link
-                    href="/"
+                    href={"/"}
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     World
@@ -50,7 +50,7 @@ export const Footer = () => {
                 </li>
                 <li>
                   <Link
-                    href="/"
+                    href={"/"}
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     Games
@@ -58,7 +58,7 @@ export const Footer = () => {
                 </li>
                 <li>
                   <Link
-                    href="/"
+                    href={"/"}
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     References
@@ -73,7 +73,7 @@ export const Footer = () => {
               <ul className="mt-2 space-y-2">
                 <li>
                   <Link
-                    href="/"
+                    href={"/"}
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     Web
@@ -81,7 +81,7 @@ export const Footer = () => {
                 </li>
                 <li>
                   <Link
-                    href="/"
+                    href={"/"}
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     eCommerce
@@ -89,7 +89,7 @@ export const Footer = () => {
                 </li>
                 <li>
                   <Link
-                    href="/"
+                    href={"/"}
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     Business
@@ -97,7 +97,7 @@ export const Footer = () => {
                 </li>
                 <li>
                   <Link
-                    href="/"
+                    href={"/"}
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     Entertainment
@@ -105,7 +105,7 @@ export const Footer = () => {
                 </li>
                 <li>
                   <Link
-                    href="/"
+                    href={"/"}
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     Portfolio
@@ -120,7 +120,7 @@ export const Footer = () => {
               <ul className="mt-2 space-y-2">
                 <li>
                   <Link
-                    href="/"
+                    href={"/"}
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     Media
@@ -128,7 +128,7 @@ export const Footer = () => {
                 </li>
                 <li>
                   <Link
-                    href="/"
+                    href={"/"}
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     Brochure
@@ -136,7 +136,7 @@ export const Footer = () => {
                 </li>
                 <li>
                   <Link
-                    href="/"
+                    href={"/"}
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     Nonprofit
@@ -144,7 +144,7 @@ export const Footer = () => {
                 </li>
                 <li>
                   <Link
-                    href="/"
+                    href={"/"}
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     Educational
@@ -152,7 +152,7 @@ export const Footer = () => {
                 </li>
                 <li>
                   <Link
-                    href="/"
+                    href={"/"}
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     Projects
@@ -167,7 +167,7 @@ export const Footer = () => {
               <ul className="mt-2 space-y-2">
                 <li>
                   <Link
-                    href="/"
+                    href={"/"}
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     Infopreneur
@@ -175,7 +175,7 @@ export const Footer = () => {
                 </li>
                 <li>
                   <Link
-                    href="/"
+                    href={"/"}
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     Personal
@@ -183,7 +183,7 @@ export const Footer = () => {
                 </li>
                 <li>
                   <Link
-                    href="/"
+                    href={"/"}
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     Wiki
@@ -191,7 +191,7 @@ export const Footer = () => {
                 </li>
                 <li>
                   <Link
-                    href="/"
+                    href={"/"}
                     className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                   >
                     Forum
@@ -219,13 +219,13 @@ export const Footer = () => {
               <FaLinkedinIn />
             </Link>
             <Link
-              href="/"
+              href={"/"}
               className="text-gray-500 transition-colors duration-300 hover:text-deep-purple-accent-400"
             >
               <FaXTwitter />
             </Link>
             <Link
-              href="/"
+              href={"/"}
               className="text-gray-500 transition-colors duration-300 hover:text-deep-purple-accent-400"
             >
               <GrInstagram />
