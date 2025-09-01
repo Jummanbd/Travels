@@ -10,7 +10,7 @@ export default function NotFound() {
             Page not found currently
           </p>
           <p className="mb-4 text-lg font-light text-gray-600">
-            Sorry, we can't find such page.
+            Sorry we cant find such page.
           </p>
 
           <button
