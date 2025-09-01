@@ -1,0 +1,230 @@
+[
+  {
+    "id": 1,
+    "city": "New York",
+    "country": "United States",
+    "thumbnail": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "width": 400,
+    "duration": "3 Nights / 4 Days",
+    "locations": ["Delhi", "Goa"],
+    "title": "Rome: Colosseum, Roman Forum, and Palatine Hill Guided Tour.",
+    "directions": "From Briarcliff Road/North Decatur Rd go north and take right on N. Emory Rd go about miles or till house numbers 1440 Emory Rd. NE and look for trail on left.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;From Briar Cliff Road and North Drid Hills go south 2 miles past Kroger shopping plaza on left and past Fox Channel five take left.",
+    "reviews": 95,
+    "rating": 5,
+    "isSaved": false,
+    "price": {
+      "currency": "US",
+      "amount": 45
+    },
+    "highlights": [
+      "Visit the famous beaches of Goa",
+      "Enjoy water sports activities",
+      "Explore Old Goa churches",
+      "Shopping at local markets"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Delhi to Goa",
+        "details": "Arrival at Goa from Delhi. Check-in at hotel and relax at the beach."
+      },
+      {
+        "day": 2,
+        "title": "North Goa Sightseeing",
+        "details": "Visit Calangute Beach, Baga Beach, Fort Aguada, and Anjuna Beach."
+      },
+      {
+        "day": 3,
+        "title": "South Goa Tour",
+        "details": "Explore Old Goa churches, Miramar Beach, Dona Paula, and local markets."
+      },
+      {
+        "day": 4,
+        "title": "Departure",
+        "details": "Check-out from hotel and return to Delhi."
+      }
+    ],
+    "inclusions": [
+      "Accommodation",
+      "Breakfast",
+      "Airport transfers",
+      "Sightseeing tours"
+    ],
+    "exclusions": [
+      "Airfare",
+      "Personal expenses",
+      "Anything not mentioned in inclusions"
+    ]
+  },
+  {
+    "id": 2,
+    "city": "New York",
+    "country": "United States",
+    "thumbnail": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?q=80&w=2020&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "width": 400,
+    "duration": "3 Nights / 4 Days",
+    "locations": ["Delhi", "Goa"],
+    "title": "Pompeii, Amalfi Coast and Positano Day Trip from Rome.",
+    "directions": "From Briarcliff Road/North Decatur Rd go north and take right on N. Emory Rd go about miles or till house numbers 1440 Emory Rd. NE and look for trail on left.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;From Briar Cliff Road and North Drid Hills go south 2 miles past Kroger shopping plaza on left and past Fox Channel five take left.",
+    "reviews": 78,
+    "rating": 5,
+    "isSaved": false,
+    "price": {
+      "currency": "US",
+      "amount": 45
+    },
+    "highlights": [
+      "Visit the famous beaches of Goa",
+      "Enjoy water sports activities",
+      "Explore Old Goa churches",
+      "Shopping at local markets"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Delhi to Goa",
+        "details": "Arrival at Goa from Delhi. Check-in at hotel and relax at the beach."
+      },
+      {
+        "day": 2,
+        "title": "North Goa Sightseeing",
+        "details": "Visit Calangute Beach, Baga Beach, Fort Aguada, and Anjuna Beach."
+      },
+      {
+        "day": 3,
+        "title": "South Goa Tour",
+        "details": "Explore Old Goa churches, Miramar Beach, Dona Paula, and local markets."
+      },
+      {
+        "day": 4,
+        "title": "Departure",
+        "details": "Check-out from hotel and return to Delhi."
+      }
+    ],
+    "inclusions": [
+      "Accommodation",
+      "Breakfast",
+      "Airport transfers",
+      "Sightseeing tours"
+    ],
+    "exclusions": [
+      "Airfare",
+      "Personal expenses",
+      "Anything not mentioned in inclusions"
+    ]
+  },
+  {
+    "id": 3,
+    "city": "New York",
+    "country": "United States",
+    "thumbnail": "http://plus.unsplash.com/premium_photo-1661962723801-1015e61ec340?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "width": 400,
+    "duration": "3 Nights / 4 Days",
+    "locations": ["Delhi", "Goa"],
+    "title": "Paris: Colosseum, Roman Forum, and Palatine Hill Guided Tour.",
+    "directions": "From Briarcliff Road/North Decatur Rd go north and take right on N. Emory Rd go about miles or till house numbers 1440 Emory Rd. NE and look for trail on left.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;From Briar Cliff Road and North Drid Hills go south 2 miles past Kroger shopping plaza on left and past Fox Channel five take left.",
+    "reviews": 44,
+    "rating": 5,
+    "isSaved": false,
+    "price": {
+      "currency": "US",
+      "amount": 45
+    },
+    "highlights": [
+      "Visit the famous beaches of Goa",
+      "Enjoy water sports activities",
+      "Explore Old Goa churches",
+      "Shopping at local markets"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Delhi to Goa",
+        "details": "Arrival at Goa from Delhi. Check-in at hotel and relax at the beach."
+      },
+      {
+        "day": 2,
+        "title": "North Goa Sightseeing",
+        "details": "Visit Calangute Beach, Baga Beach, Fort Aguada, and Anjuna Beach."
+      },
+      {
+        "day": 3,
+        "title": "South Goa Tour",
+        "details": "Explore Old Goa churches, Miramar Beach, Dona Paula, and local markets."
+      },
+      {
+        "day": 4,
+        "title": "Departure",
+        "details": "Check-out from hotel and return to Delhi."
+      }
+    ],
+    "inclusions": [
+      "Accommodation",
+      "Breakfast",
+      "Airport transfers",
+      "Sightseeing tours"
+    ],
+    "exclusions": [
+      "Airfare",
+      "Personal expenses",
+      "Anything not mentioned in inclusions"
+    ]
+  },
+  {
+    "id": 4,
+    "city": "New York",
+    "country": "United States",
+    "thumbnail": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?q=80&w=2020&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "width": 400,
+    "duration": "3 Nights / 4 Days",
+    "locations": ["Delhi", "Goa"],
+    "title": "Buckingham Palace Entrance Ticket & Changing of the Guard Tour.",
+    "directions": "From Briarcliff Road/North Decatur Rd go north and take right on N. Emory Rd go about miles or till house numbers 1440 Emory Rd. NE and look for trail on left.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;From Briar Cliff Road and North Drid Hills go south 2 miles past Kroger shopping plaza on left and past Fox Channel five take left.",
+    "reviews": 88,
+    "rating": 5,
+    "isSaved": false,
+    "price": {
+      "currency": "US",
+      "amount": 45
+    },
+    "highlights": [
+      "Visit the famous beaches of Goa",
+      "Enjoy water sports activities",
+      "Explore Old Goa churches",
+      "Shopping at local markets"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Delhi to Goa",
+        "details": "Arrival at Goa from Delhi. Check-in at hotel and relax at the beach."
+      },
+      {
+        "day": 2,
+        "title": "North Goa Sightseeing",
+        "details": "Visit Calangute Beach, Baga Beach, Fort Aguada, and Anjuna Beach."
+      },
+      {
+        "day": 3,
+        "title": "South Goa Tour",
+        "details": "Explore Old Goa churches, Miramar Beach, Dona Paula, and local markets."
+      },
+      {
+        "day": 4,
+        "title": "Departure",
+        "details": "Check-out from hotel and return to Delhi."
+      }
+    ],
+    "inclusions": [
+      "Accommodation",
+      "Breakfast",
+      "Airport transfers",
+      "Sightseeing tours"
+    ],
+    "exclusions": [
+      "Airfare",
+      "Personal expenses",
+      "Anything not mentioned in inclusions"
+    ]
+  }
+]
