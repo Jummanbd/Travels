@@ -1,4 +1,4 @@
-const BASE_URL = process.env.NEXT_PUBLIC_API_URL || "https://my-production-api.vercel.app/api";
+const BASE_URL = process.env.NEXT_PUBLIC_API_URL || "https://travels-ujt2.vercel.app/api/";
 //  Dynamic path and Dynamic Type API
 export async function getApi<T>(filePath: string): Promise<T> {
   const res = await fetch(`${BASE_URL}/${filePath}`, {
